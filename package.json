@@ -1,0 +1,20 @@
+{
+  "name": "javascript-module",
+  "version": "1.0.0",
+  "description": "前端模块化",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-umd": "node ./UMD/node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuqiyu/Javascript-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuqiyu/Javascript-module/issues"
+  },
+  "homepage": "https://github.com/liuqiyu/Javascript-module#readme"
+}
